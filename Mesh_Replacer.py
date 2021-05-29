@@ -18,7 +18,7 @@ Functions:
 - Input values for certain material properties 
     - Base Color, Normal, Metallic, Roughness 
 
-Add this folder as a plugin to the desired project make use of the tool. 
+Add the corresponding folder as a plugin to the desired project make use of the tool. 
 
 '''
 
